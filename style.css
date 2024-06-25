@@ -1,0 +1,36 @@
+body{margin: 0;
+padding: 0;
+} 
+
+
+.logo-img{
+    width: 9em;
+    height: auto;
+}
+
+
+
+
+
+.main-title{
+    text-align: center;
+}
+
+.main-p{
+    text-align: center;
+}
+
+
+
+
+.models-title{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.models-card{
+    width: 70%;
+    height: 500px;
+}
+
